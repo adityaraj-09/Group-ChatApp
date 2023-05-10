@@ -1,4 +1,4 @@
-# insien_flutter
+# Flutter chat App using Firebase as backend
 
 A new Flutter project.
 
